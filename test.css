@@ -1,0 +1,80 @@
+#Header{
+	border:solid 8px gold;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align:center;
+}
+
+#LeftNav{
+	border:solid 8px Silver;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align:center;
+	float: left;
+}
+
+#Content{
+	margin-left: auto;
+	margin-right: auto;
+	border:solid 8px Silver;
+	width: 700px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+#Footer{
+	border:solid 8px gold;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+li{
+	list-style-type: none;
+}
+
+div{
+	background-color: #008080;
+}
+
+p{
+	font-family: Courier;
+	font-size: 24px;
+	font-weight: bold;
+	color: white;
+}
+
+a{
+	font-size: 24px;
+	color: white;
+	font-weight: bold;
+}
+
+h1{
+	font-family: "Passion One";
+	font-size: 60px;
+	color: #FFBC00;
+	font-weight: bold;
+}
+
+h3{
+	font-family: "Passion One";
+	font-size: 40px;
+	color: #FFBC00;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+#bow{
+	color: #FFBC00;
+}
+
+body{
+	background-image: url(christmas-colour.png);
+}
+
+
